@@ -4,3 +4,5 @@
 4.untuk soal no 1 dan 2 tinggal dijalankan di web browser (localhost/tempat_menyimpan_file/1.php dan seterusnya
 5.untuk soal no 4 di satukan di satu folder (file yang tidak diberi angka) kemudian jalankan di web browser 
 6.untuk file screenshoot adalah query mysql di cmd
+7.silakan buat database hero dengan nama table heroes_tb
+
